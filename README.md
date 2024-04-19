@@ -3,7 +3,7 @@
 <h1>
       <h3>:Trail Project</h3>
 
-<h2>Table of content</h2>
+<h2>Files contained</h2>
    <ul><li>gitignore</li>
     <li> html</li>
     <li> css</li>
